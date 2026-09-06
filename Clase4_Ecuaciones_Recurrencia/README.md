@@ -1,6 +1,5 @@
 # Clase 4 - Ecuaciones de Recurrencia
 
-Este proyecto desarrolla en **Python** las 6 ecuaciones de recurrencia propuestas en la actividad de la Clase 4.
 
 ## Importante sobre el enunciado
 
